@@ -25,4 +25,23 @@
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/ShoppingCartWithAddedProducts.png)
 #### Cart removed one product
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/ShoppingCartWithRemovedOneProduct.png)
+<br/>
+### Admin
+#### Category List and Category Create
+![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/AdminCategoryList.png)
+#### Category Detail and Category Edit
+![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/AdminEditCategory.png)
+#### Product List and Product Create
+![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/AdminProductListAndCreate.png)
+#### Product Detail and Product Edit
+![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/AdminProductEdit.png)
+#### Users List
+![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/UserSummary.png)
+#### User Detail
+![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/UserDetail.png)
+#### User Cart Summary
+![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/CartSummary.png)
+#### User Cart Details
+![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/AdminUserCartDetail.png)
+
 
