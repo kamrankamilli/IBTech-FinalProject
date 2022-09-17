@@ -1,28 +1,28 @@
 # IBTech-FinalProject
 
 ### Portal
-Aksesuar Category ProductList
+#### Aksesuar Category ProductList
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/AksesuarProductList.png)
-ProductView Page
+#### ProductView Page
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/ProductViewPage.png)
-Ayakkabı Category ProductList
+#### Ayakkabı Category ProductList
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/Ayakkab%C4%B1ProductList.png)
-Giyim Category ProductList
+#### Giyim Category ProductList
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/GiyimProductList.png)
-Kozmetik Category ProductList
+#### Kozmetik Category ProductList
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/KozmetikProductList.png)
-Elektronik Category ProductList
+#### Elektronik Category ProductList
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/ElektronikProductList.png)
-Register Page
+#### Register Page
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/RegisterPage.png)
-Login Page
+#### Login Page
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/LoginPage.png)
-Logged In User Welcome
+#### Logged In User Welcome
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/LoggedInUserWelcome.png)
-Cart without product
+#### Cart without product
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/CartWithoutProduct.png)
-Cart with products
+#### Cart with products
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/ShoppingCartWithAddedProducts.png)
-Cart removed one product
+#### Cart removed one product
 ![alt text](https://github.com/kamrankamilli/IBTech-FinalProject/blob/main/ScreenShots/ShoppingCartWithRemovedOneProduct.png)
 
